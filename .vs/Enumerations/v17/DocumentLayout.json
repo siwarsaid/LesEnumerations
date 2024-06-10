@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\siwar\\Enumerations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|d:\\siwar\\enumerations\\enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|d:\\siwar\\enumerations\\enumerations\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|d:\\siwar\\enumerations\\enumerations\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|d:\\siwar\\enumerations\\enumerations\\ecouleurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB30E735-E0A4-4FF1-9555-66F79BCAAA9E}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\ecouleurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\siwar\\Enumerations\\Enumerations\\Extensions.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Extensions.cs",
+              "ToolTip": "D:\\siwar\\Enumerations\\Enumerations\\Extensions.cs",
+              "RelativeToolTip": "Enumerations\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:08:32.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\siwar\\Enumerations\\Enumerations\\User.cs",
+              "RelativeDocumentMoniker": "Enumerations\\User.cs",
+              "ToolTip": "D:\\siwar\\Enumerations\\Enumerations\\User.cs",
+              "RelativeToolTip": "Enumerations\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:07:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECouleurs.cs",
+              "DocumentMoniker": "D:\\siwar\\Enumerations\\Enumerations\\ECouleurs.cs",
+              "RelativeDocumentMoniker": "Enumerations\\ECouleurs.cs",
+              "ToolTip": "D:\\siwar\\Enumerations\\Enumerations\\ECouleurs.cs",
+              "RelativeToolTip": "Enumerations\\ECouleurs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:06:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\siwar\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Program.cs",
+              "ToolTip": "D:\\siwar\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeToolTip": "Enumerations\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:05:12.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
